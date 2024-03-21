@@ -20,18 +20,6 @@ public class Member {
         this.zip = zip;
     }
 
-	
-//	public Member(String id, String address, String city, String firstName, String lastName, String state, String zip) {
-//		super();
-//		this.id = id;
-//		this.address = address;
-//		this.city = city;
-//		this.firstName = firstName;
-//		this.lastName = lastName;
-//		this.state = state;
-//		this.zip = zip;
-//	}
-
 	public void setId( String id ) {
 		this.id = id;
 	}
